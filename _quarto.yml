@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Task Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Suvid-Singhal
+      - icon: twitter
+        href: https://twitter.com/SuvidSinghal
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

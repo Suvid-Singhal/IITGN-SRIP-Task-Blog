@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "87e9181f"
+  },
+  "index.qmd": {
+    "index.html": "b2fe12e4"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "7bbf48f8"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "1d30266b"
+  },
+  "posts/task-hosted/Task.md": {
+    "Task.html": "d187edcd"
+  }
+}

@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/SuvidSinghal
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/suvidsinghal
+    - icon: github
+      text: Github
+      href: https://github.com/Suvid-Singhal
+
+---
+
+I'm Suvid Singhal, a first year student at BITS Pilani, Pilani campus. I'm interested in Software Development, Artificial Intelligence and Cyber Security.
